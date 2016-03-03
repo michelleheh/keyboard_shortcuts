@@ -227,3 +227,5 @@ You can use Alfred to
 `command + option + NUMBER` : split screen
 
 `control + shift + NUMBER` : move current file to pane
+
+test
