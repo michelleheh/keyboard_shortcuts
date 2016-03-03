@@ -228,4 +228,4 @@ You can use Alfred to
 
 `control + shift + NUMBER` : move current file to pane
 
-test
+test test 
